@@ -42,22 +42,29 @@ streamlit run fraud_detection.py
 
 ## 📊 Key Visualizations
 
-### Amount vs isFraud (Filtered < 50,000)
-![Amount vs isFraud](Amount%20vs%20isFraud%20(Filtered%20under%2050,000).png)
+<p align="center">
+  <img src="Amount%20vs%20isFraud%20(Filtered%20under%2050,000).png" width="600" alt="Amount vs isFraud">
+</p>
 
-### Correlation Matrix
-![Correlation Matrix](Correlation%20Matrix.png)
+<p align="center">
+  <img src="Correlation%20Matrix.png" width="600" alt="Correlation Matrix">
+</p>
 
-### Fraud Distribution in Transfer and Cash Out
-![Fraud Distribution](Fraud%20Distribution%20in%20Transfer%20and%20Cash%20Out%20Ty....png)
+<p align="center">
+  <img src="Fraud%20Distribution%20in%20Transfer%20and%20Cash%20Out%20Ty....png" width="600" alt="Fraud Distribution in Transfer and Cash Out">
+</p>
 
-### Fraud Rate by Transaction Type
-![Fraud Rate](Fraud%20Rate%20By%20Transaction%20plot.png)
+<p align="center">
+  <img src="Fraud%20Rate%20By%20Transaction%20plot.png" width="600" alt="Fraud Rate by Transaction">
+</p>
 
-### Log-Transformed Transaction Amount Distribution
-![Log-Transformed Amount](Log-Transformed%20Transaction%20Amount%20Distribut....png)
+<p align="center">
+  <img src="Log-Transformed%20Transaction%20Amount%20Distribut....png" width="600" alt="Log-Transformed Transaction Amount Distribution">
+</p>
 
-### Transaction Type Distribution
-![Transaction Types](transaction%20type%20distribution.png)
+<p align="center">
+  <img src="transaction%20type%20distribution.png" width="600" alt="Transaction Type Distribution">
+</p>
+
 
 
