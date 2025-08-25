@@ -62,6 +62,10 @@ A simple web app was built to interact with the trained model.
   <img src="transaction_type_distribution.png" width="600" alt="Transaction Type Distribution">
 </p>
 
+<p align="center">
+  <img src="cesar_fraud_app.png" width="600" alt="cesar fraud app">
+</p>
+
 Run locally with:
 ```bash
 streamlit run fraud_detection.py
