@@ -40,31 +40,7 @@ Run locally with:
 ```bash
 streamlit run fraud_detection.py
 
-## 📊 Key Visualizations
 
-<p align="center">
-  <img src="Amount%20vs%20isFraud%20(Filtered%20under%2050,000).png" width="600" alt="Amount vs isFraud">
-</p>
-
-<p align="center">
-  <img src="Correlation Matrix.png" width="600" alt="Correlation Matrix">
-</p>
-
-<p align="center">
-  <img src="Fraud%20Distribution%20in%20Transfer%20and%20Cash%20Out%20Ty....png" width="600" alt="Fraud Distribution in Transfer and Cash Out">
-</p>
-
-<p align="center">
-  <img src="Fraud%20Rate%20By%20Transaction%20plot.png" width="600" alt="Fraud Rate by Transaction">
-</p>
-
-<p align="center">
-  <img src="Log-Transformed%20Transaction%20Amount%20Distribut....png" width="600" alt="Log-Transformed Transaction Amount Distribution">
-</p>
-
-<p align="center">
-  <img src="transaction%20type%20distribution.png" width="600" alt="Transaction Type Distribution">
-</p>
 
 
 
