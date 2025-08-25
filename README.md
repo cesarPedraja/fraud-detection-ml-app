@@ -39,3 +39,24 @@ A simple web app was built to interact with the trained model.
 Run locally with:
 ```bash
 streamlit run fraud_detection.py
+
+## 📊 Key Visualizations
+
+### Amount vs isFraud (Filtered < 50,000)
+![Amount vs isFraud](amount_vs_isfraud.png)
+
+### Correlation Matrix
+![Correlation Matrix](correlation_matrix.png)
+
+### Fraud Distribution in Transfer and Cash Out
+![Fraud Distribution](fraud_distribution_transfer_cashout.png)
+
+### Fraud Rate by Transaction Type
+![Fraud Rate](fraud_rate_by_transaction.png)
+
+### Log-Transformed Transaction Amount Distribution
+![Log-Transformed Amount](log_transformed_amount.png)
+
+### Transaction Type Distribution
+![Transaction Types](transaction_type_distribution.png)
+
