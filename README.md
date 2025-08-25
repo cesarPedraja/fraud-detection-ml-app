@@ -36,10 +36,6 @@ Using a highly imbalanced dataset of real-world transactions, we tested differen
 ## 🚀 Streamlit Application
 A simple web app was built to interact with the trained model.
 
-Run locally with:
-```bash
-streamlit run fraud_detection.py
-
 ## 📊 Key Visualizations
 
 <p align="center">
@@ -66,6 +62,8 @@ streamlit run fraud_detection.py
   <img src="transaction_type_distribution.png" width="600" alt="Transaction Type Distribution">
 </p>
 
-
+Run locally with:
+```bash
+streamlit run fraud_detection.py
 
 
