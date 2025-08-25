@@ -47,7 +47,7 @@ streamlit run fraud_detection.py
 </p>
 
 <p align="center">
-  <img src="Correlation%20Matrix.png" width="600" alt="Correlation Matrix">
+  <img src="Correlation Matrix.png" width="600" alt="Correlation Matrix">
 </p>
 
 <p align="center">
